@@ -43,7 +43,7 @@
 - [Email](mailto:your.email@example.com)
 -->
 
----
+<!---
 
 <!-- Optional: Add fun facts or hobbies here -->
 <!--
@@ -53,5 +53,5 @@
 - Enjoy hiking and photography outside of tech!
 -->
 
----
+<!---
 
